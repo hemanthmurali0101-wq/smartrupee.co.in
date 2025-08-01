@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -141,7 +140,6 @@
 
   <section class="hero">
     <h1>SmartRupee</h1>
-    <p>Your gateway to smart financial choices</p>
   </section>
 
   <section class="features">
