@@ -123,8 +123,6 @@
 </head>
 <body>
 
-  <header>
-  </header>
 
   <nav>
     <div class="dropdown">
